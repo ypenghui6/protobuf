@@ -5,8 +5,8 @@ package issue435
 
 import (
 	fmt "fmt"
-	_ "github.com/gogo/protobuf/gogoproto"
-	proto "github.com/gogo/protobuf/proto"
+	_ "github.com/ypenghui6/protobuf/gogoproto"
+	proto "github.com/ypenghui6/protobuf/proto"
 	math "math"
 )
 

@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/gogo/protobuf/proto"
+	"github.com/ypenghui6/protobuf/proto"
 )
 
 func TestClone1(t *testing.T) {

@@ -5,7 +5,7 @@ package jsonpb
 
 import (
 	fmt "fmt"
-	proto "github.com/gogo/protobuf/proto"
+	proto "github.com/ypenghui6/protobuf/proto"
 	math "math"
 )
 

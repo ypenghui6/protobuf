@@ -6,8 +6,8 @@ package issue620
 import (
 	bytes "bytes"
 	fmt "fmt"
-	_ "github.com/gogo/protobuf/gogoproto"
-	proto "github.com/gogo/protobuf/proto"
+	_ "github.com/ypenghui6/protobuf/gogoproto"
+	proto "github.com/ypenghui6/protobuf/proto"
 	math "math"
 	math_bits "math/bits"
 )

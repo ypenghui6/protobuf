@@ -5,11 +5,11 @@ package issue261
 
 import (
 	fmt "fmt"
-	_ "github.com/gogo/protobuf/gogoproto"
-	proto "github.com/gogo/protobuf/proto"
-	github_com_gogo_protobuf_sortkeys "github.com/gogo/protobuf/sortkeys"
-	_ "github.com/gogo/protobuf/types"
-	github_com_gogo_protobuf_types "github.com/gogo/protobuf/types"
+	_ "github.com/ypenghui6/protobuf/gogoproto"
+	proto "github.com/ypenghui6/protobuf/proto"
+	github_com_gogo_protobuf_sortkeys "github.com/ypenghui6/protobuf/sortkeys"
+	_ "github.com/ypenghui6/protobuf/types"
+	github_com_gogo_protobuf_types "github.com/ypenghui6/protobuf/types"
 	io "io"
 	math "math"
 	math_bits "math/bits"
